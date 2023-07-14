@@ -290,6 +290,8 @@
 				DEVELOPMENT_TEAM = 9L6T99V452;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BlueToothLight/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "需要藍芽";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "需要藍芽";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +320,8 @@
 				DEVELOPMENT_TEAM = 9L6T99V452;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BlueToothLight/Info.plist;
+				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "需要藍芽";
+				INFOPLIST_KEY_NSBluetoothPeripheralUsageDescription = "需要藍芽";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
